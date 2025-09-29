@@ -1079,7 +1079,7 @@ main {
 
 .project-item {
   display: none;
-  height:250px;
+  height: 290px;
 }
 
 .project-item.active {
@@ -2329,7 +2329,8 @@ textarea.form-input::-webkit-resizer {
 
 .modal-content {
   position: relative;
-  background: rgba(255, 255, 255, 0.05);
+
+  background: #1e1e1f;
   backdrop-filter: blur(20px);
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 20px;
@@ -2450,7 +2451,7 @@ textarea.form-input::-webkit-resizer {
     width: 95%;
     padding: 20px;
     max-height: 90vh;
-    background: rgba(0, 0, 0, 0.8);
+    background: #1e1e1f;
     /* Change from rgba(255, 255, 255, 0.05) to darker */
     backdrop-filter: blur(20px);
   }
