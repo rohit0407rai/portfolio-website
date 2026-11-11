@@ -4,7 +4,7 @@
 
 ### My personal website: experience, projects and contact in one place
 
-**[rohit-rai.netlify.app](https://rohit-rai.netlify.app)**
+**[rohit-rai.com](https://rohit-rai.com)**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
