@@ -2543,3 +2543,9 @@ textarea.form-input::-webkit-resizer {
     opacity: 1;
   }
 }
+/* links inside resume timelines (publications) */
+.timeline-item-title a { color: var(--white-2); text-transform: none; display: inline; }
+.timeline-item-title a:hover { color: var(--orange-yellow-crayola); text-decoration: underline; }
+.timeline-text a { color: var(--orange-yellow-crayola); display: inline; }
+.timeline-text a:hover { text-decoration: underline; }
+.timeline-item-title { text-transform: none; }
